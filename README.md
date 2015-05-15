@@ -3,17 +3,17 @@
 Java implementation of a single-threaded NIO-based chat server which defends against DoS attacks from multi-threaded chat clients. For comparison, a chat server without DoS defense and a benign chat client are also implemented.
 <br><br>
 
-<img src="./snapshots/normal.png" width="1000px" height="550px" />
+<img src="./snapshots/normal.png" width="1000px" height="500px" />
 <br><br><br>
 
 ## Architecture of a Naked Chat Server<br>
 <br>
-<img src="./snapshots/raw-server.png" width="1000px" height="550px" />
+<img src="./snapshots/raw-server.png" width="1000px" height="500px" />
 <br><br><br>
 
 ## Crashed when DoS Attack<br>
 
-<img src="./snapshots/dosattack.png" width="1000px" height="550px" />
+<img src="./snapshots/dosattack.png" width="1000px" height="500px" />
 <br><br>
 
 ## Video Demo<br>
@@ -22,12 +22,12 @@ Java implementation of a single-threaded NIO-based chat server which defends aga
 
 ## Architecture of a DoS Defensive Chat Server<br>
 <br>
-<img src="./snapshots/dos-server.png" width="1000px" height="550px" />
+<img src="./snapshots/dos-server.png" width="1000px" height="500px" />
 <br><br><br>
 
 ## Defense Against DoS Attack<br>
 
-<img src="./snapshots/dosdefense.png" width="1000px" height="550px" />
+<img src="./snapshots/dosdefense.png" width="1000px" height="500px" />
 <br><br>
 
 ## Video Demo<br>
