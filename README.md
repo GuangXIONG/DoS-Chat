@@ -7,11 +7,11 @@ Java implementation of a single-threaded NIO-based chat server which defends aga
 <br>
 ## Architecture of a Naked Chat Server<br>
 <br>
-<img src="./snapshots/raw-server.png" width="900px" height="500px" />
+<img src="./snapshots/raw-server.png" width="1000px" height="550px" />
 <br>
 ## Crashed when DoS Attack<br>
 <br>
-<img src="./snapshots/dosattack.png" width="900px" height="500px" />
+<img src="./snapshots/dosattack.png" width="1000px" height="550px" />
 <br>
 ## Video Demo<br>
 <br>
