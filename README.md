@@ -4,3 +4,7 @@ Java implementation of a single-threaded NIO-based chat server which defends aga
 <br>
 
 <img src="./snapshots/normal.png" width="900px" height="500px" />
+<br>
+## Architecture of a Naked Chat Server:<br>
+<br>
+<img src="./snapshots/rawserver.png" width="900px" height="500px" />
